@@ -77,7 +77,7 @@ Window {
         y: 550
         width: 271
         height: 29
-        text: qsTr("Chack Payment")
+        text: qsTr("Check Payment")
     }
 
     Image {
